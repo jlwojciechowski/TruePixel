@@ -1,0 +1,37 @@
+Licencja MIT
+
+Copyright (c) 2026 Jakub Wojciechowski
+CLICK4PROFIT LTD (Numer spółki: 16943299)
+71-75 Shelton Street, Covent Garden, Londyn, WC2H 9JQ, Wielka Brytania
+
+Niniejszym udziela się bezpłatnie zgody każdej osobie pozyskującej kopię tego oprogramowania wraz z powiązaną dokumentacją (dalej „Oprogramowanie”), na korzystanie z Oprogramowania bez ograniczeń, w tym bez ograniczeń do używania, kopiowania, modyfikowania, łączenia, publikowania, dystrybucji, sublicencjonowania i/lub sprzedaży kopii Oprogramowania, a także na zezwalanie osobom, którym Oprogramowanie jest dostarczane, na to samo, pod następującymi warunkami:
+
+Powyższa informacja o prawach autorskich oraz niniejsze zezwolenie muszą zostać dołączone do wszystkich kopii lub istotnych części Oprogramowania.
+
+OPROGRAMOWANIE JEST DOSTARCZANE W STANIE „TAKIM, JAKI JEST”, BEZ JAKIEJKOLWIEK GWARANCJI, WYRAŹNEJ LUB DOROZUMIANEJ, W TYM MIĘDZY INNYMI GWARANCJI PRZYDATNOŚCI HANDLOWEJ, PRZYDATNOŚCI DO OKREŚLONEGO CELU I BRAKU NARUSZEŃ. W ŻADNYM WYPADKU AUTORZY LUB POSIADACZE PRAWA AUTORSKIEGO NIE PONOSZĄ ODPOWIEDZIALNOŚCI Z TYTUŁU JAKICHKOLWIEK ROSZCZEŃ, SZKÓD LUB INNEJ ODPOWIEDZIALNOŚCI, CZY TO W WYNIKU UMOWY, DELIKTU CZY INACZEJ, WYNIKAJĄCYCH Z OPROGRAMOWANIA LUB UŻYTKOWANIA GO LUB INNYCH CZYNNOŚCI W OPROGRAMOWANIU.
+
+[ENGLISH VERSION]
+
+MIT License
+
+Copyright (c) 2026 Jakub Wojciechowski
+CLICK4PROFIT LTD (Company No. 16943299)
+71-75 Shelton Street, Covent Garden, London, WC2H 9JQ, United Kingdom
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
